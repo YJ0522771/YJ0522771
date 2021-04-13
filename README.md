@@ -3,6 +3,7 @@
 #### 📖 I'm currently interested in ...
 
 ##### ~~SWEA 알고리즘 문제 D3 도장 깨기 중~~
+##### B형 대비, SWEA Programming Professional 공부 중
 ##### SWEA 모의 SW 역량테스트 문제 도장 깨기 중
 
 
